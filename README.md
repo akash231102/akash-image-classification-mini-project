@@ -1,0 +1,1 @@
+# akash-image-classification-mini-project
